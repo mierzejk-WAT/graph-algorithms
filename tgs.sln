@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kolorowanie", "Kolorowanie\Kolorowanie.csproj", "{FB26DAA3-5221-4C92-BDB6-258971E302AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MFA", "MFA\MFA.csproj", "{804B6C5D-D50D-4257-9B9D-636005E2CB13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB26DAA3-5221-4C92-BDB6-258971E302AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB26DAA3-5221-4C92-BDB6-258971E302AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB26DAA3-5221-4C92-BDB6-258971E302AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB26DAA3-5221-4C92-BDB6-258971E302AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{804B6C5D-D50D-4257-9B9D-636005E2CB13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{804B6C5D-D50D-4257-9B9D-636005E2CB13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{804B6C5D-D50D-4257-9B9D-636005E2CB13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{804B6C5D-D50D-4257-9B9D-636005E2CB13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
